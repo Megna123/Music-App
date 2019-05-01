@@ -1,0 +1,4 @@
+#Thu Mar 21 00:00:36 PDT 2019
+base.0=C\:\\Users\\Shish\\Downloads\\SensorList\\SensorList\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
